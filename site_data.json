@@ -1,8 +1,10 @@
-[
-  {
-    "title": "Angular - SoftTerest",
-    "description": "SoftTerest is a platform for sharing ideas. You can create,edit,delete (CRUD) ideas with others or like/comment people's ideas.",
-    "link": "https://github.com/tmollov/Angular_SoftTerest",
-    "image": "https://github.com/tmollov/Angular_SoftTerest/raw/master/Preview_Images/HomePage_GUEST.JPG"
-  }
-]
+{
+  "projects": [
+    {
+      "title": "Angular - SoftTerest",
+      "description": "SoftTerest is a platform for sharing ideas. You can create,edit,delete (CRUD) ideas with others or like/comment people's ideas.",
+      "link": "https://github.com/tmollov/Angular_SoftTerest",
+      "image": "https://github.com/tmollov/Angular_SoftTerest/raw/master/Preview_Images/HomePage_GUEST.JPG"
+    }
+  ]
+}
