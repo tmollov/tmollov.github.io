@@ -1,0 +1,10 @@
+<div id="projects">
+    <h1>My Projects</h1>
+
+    <ng-container *ngIf="projects">
+        <ng-container *ngFor="let i of projects">
+            <project-thumbnail [data]="i"></project-thumbnail>
+        </ng-container>
+    </ng-container>
+
+</div>
