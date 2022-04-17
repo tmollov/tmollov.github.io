@@ -1,10 +1,52 @@
 {
   "projects": [
     {
+      "title": "SoftTerest - Angular2",
+      "description": "SoftTerest is a platform for sharing ideas. You can create,edit,delete (CRUD) ideas with others or like/comment people's ideas.",
+      "link": "https://github.com/tmollov/Angular_SoftTerest",
+      "image": "https://github.com/tmollov/Angular_SoftTerest/raw/master/Preview_Images/HomePage_GUEST.JPG"
+    },
+    {
+      "title": "DonUni - VueJS",
+      "description": "DonUni is a donor search platform for your causes. You can create,edit,delete (CRUD) your causes and people out there (registered users) can donate to your causes, of course, and you to their causes.",
+      "link": "https://github.com/tmollov/VueJSDonUni",
+      "image": "https://github.com/tmollov/VueJSDonUni/raw/master/Preview%20images/03.home_dashboard.jpg?raw=true"
+    },
+    {
+      "title": "Directory Player - Python & PyQt5",
+      "description": "1by1 like directory music player.",
+      "link": "https://github.com/tmollov/directory-player",
+      "image": "https://raw.githubusercontent.com/tmollov/directory-player/015168df8648ef37a5a847dabd5a10e928a760ca/readme_resources/v0_5_beta_preview.png"
+    },
+    {
       "title": "Angular - SoftTerest",
       "description": "SoftTerest is a platform for sharing ideas. You can create,edit,delete (CRUD) ideas with others or like/comment people's ideas.",
       "link": "https://github.com/tmollov/Angular_SoftTerest",
       "image": "https://github.com/tmollov/Angular_SoftTerest/raw/master/Preview_Images/HomePage_GUEST.JPG"
-    }
+    },
+    {
+      "title": "Angular - SoftTerest",
+      "description": "SoftTerest is a platform for sharing ideas. You can create,edit,delete (CRUD) ideas with others or like/comment people's ideas.",
+      "link": "https://github.com/tmollov/Angular_SoftTerest",
+      "image": "https://github.com/tmollov/Angular_SoftTerest/raw/master/Preview_Images/HomePage_GUEST.JPG"
+    },
+    {
+      "title": "Angular - SoftTerest",
+      "description": "SoftTerest is a platform for sharing ideas. You can create,edit,delete (CRUD) ideas with others or like/comment people's ideas.",
+      "link": "https://github.com/tmollov/Angular_SoftTerest",
+      "image": "https://github.com/tmollov/Angular_SoftTerest/raw/master/Preview_Images/HomePage_GUEST.JPG"
+    },
+    {
+      "title": "Angular - SoftTerest",
+      "description": "SoftTerest is a platform for sharing ideas. You can create,edit,delete (CRUD) ideas with others or like/comment people's ideas.",
+      "link": "https://github.com/tmollov/Angular_SoftTerest",
+      "image": "https://github.com/tmollov/Angular_SoftTerest/raw/master/Preview_Images/HomePage_GUEST.JPG"
+    },
+    {
+      "title": "Angular - SoftTerest",
+      "description": "SoftTerest is a platform for sharing ideas. You can create,edit,delete (CRUD) ideas with others or like/comment people's ideas.",
+      "link": "https://github.com/tmollov/Angular_SoftTerest",
+      "image": "https://github.com/tmollov/Angular_SoftTerest/raw/master/Preview_Images/HomePage_GUEST.JPG"
+    },
   ]
 }
