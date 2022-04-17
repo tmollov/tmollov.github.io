@@ -13,7 +13,7 @@ export class ProjectsComponent implements OnInit {
   constructor(private http: HttpClient) { }
 
   ngOnInit(): void {
-    this.http.get("https://raw.githubusercontent.com/tmollov/tmollov.github.io/master/site_data.json").subscribe((r: any) => {
+    this.http.get("https://raw.githubusercontent.com/tmollov/tmollov.github.io/main/site_data.json").subscribe((r: any) => {
       this.projects = r.projects;
       console.log(this.projects);
     })
