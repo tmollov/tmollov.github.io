@@ -1,0 +1,25 @@
+<header>
+    <ul>
+        <div class="hamburger">
+            <button mat-button [matMenuTriggerFor]="menu">
+                <mat-icon>menu</mat-icon>
+            </button>
+            <mat-menu class="mat" #menu="matMenu">
+                <ul class="ul">
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#skills">Skills</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#blog">Blog</a></li>
+                </ul>
+            </mat-menu>
+        </div>
+
+        <div class="normal">
+            <li><a href="#home">Home</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#blog">Blog</a></li>
+        </div>
+
+    </ul>
+</header>
